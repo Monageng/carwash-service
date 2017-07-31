@@ -1,0 +1,9 @@
+Create Client
+http://localhost:8080/carwash/rest/ClientService/client/register
+{
+	"name" : "monageng",
+	"surname":"motsabi",
+	"regNo":"BY76FVGP",
+	"cellNumber":0124587879,
+    "dateOfBirth":"2017-05-05"
+}
